@@ -4,7 +4,7 @@
 Confab is the best all in one platform to hang out with your friends and family.
 
 
-![Logo](https://drive.google.com/file/d/1oRScCJ26uBF6GMwi6tr0g-OH_q9Z58CM/view?usp=sharing)
+![Logo] https://drive.google.com/file/d/1oRScCJ26uBF6GMwi6tr0g-OH_q9Z58CM/view 
 
 
 ## languages used
