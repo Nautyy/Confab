@@ -19,7 +19,7 @@ Confab is the best all in one platform to hang out with your friends and family.
 
 Confab is a one stop solution platform for meeting to your friends and family members virtually. 
 
-##- [DEMO video](Gdrive//)
+##- [DEMO video](https://youtu.be/z5NzB_t2YJo?si=mNf91I25PTCKb0A4)
 
 ## features
 
